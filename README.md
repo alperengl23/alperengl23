@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alperen 👋
 
-<!--
-**alperengl23/alperengl23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering senior at **OSTIM Technical University** (Ankara), studying on a full scholarship.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## What I'm doing
+
+- 🎮 Building games and software projects with Unity and C#
+- 🐍 Writing tools and scripts in Python
+- 💼 Open to internships and junior roles
+
+## Contact
+
+- LinkedIn: [Alperen Gül](https://www.linkedin.com/in/alperen-gül-233506ag/)
