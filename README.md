@@ -1,4 +1,4 @@
-# Hi, I'm Alperen 👋
+#  I'm Alperen 👋
 
 Computer Engineering senior at **OSTIM Technical University** (Ankara), studying on a full scholarship.
 
